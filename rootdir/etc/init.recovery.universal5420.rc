@@ -18,4 +18,4 @@ on property:zygote.enable=1
    start zygote
 
 on property:zygote.enable=0
-   stop zygote
+   start zygote
